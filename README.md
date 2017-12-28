@@ -3,8 +3,9 @@ The goal of this project is to use the Phoenix web framework to implement a WebS
 
 Authors
 
-Aniketh Sukhtankar (UF ID 7819 9584) asukhtankar@ufl.edu
-Shikha Mehta (UF ID 4851 9256) shikha.mehta@ufl.edu
+Aniketh Sukhtankar (UF ID 7819 9584)
+
+Shikha Mehta (UF ID 4851 9256)
 
 -------------------------------------------------------
  COP5615 : DISTRIBUTED SYSTEMS - TWITTER CLONE 
